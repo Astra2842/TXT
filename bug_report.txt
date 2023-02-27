@@ -1,0 +1,8 @@
+ID 1
+Title test bag report
+Steps:
+  1. click on site ....com
+  2. click on menu
+  3. click om punkt menu 'Markets
+  Actual result Status code is 404
+  Expected result Open Markets
