@@ -1,0 +1,5 @@
+First Name - Dmitriy
+Last name - Bachurin
+Age - 25
+Pet - 6
+Future salary - 1000$
