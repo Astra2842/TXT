@@ -1,0 +1,10 @@
+theory of testing
+terminal
+mobile testing
+GIT
+Postman
+SQL
+Jmetr
+Devtools
+Charles
+Phyton
